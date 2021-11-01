@@ -1,0 +1,30 @@
+{
+  "name": "protected-routes-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "entry": "src/App.js",
+  "main": "src/index.js",
+  "dependencies": {
+    "history": "5.0.0",
+    "react": "18.0.0-alpha-e6be2d531",
+    "react-dom": "18.0.0-alpha-e6be2d531",
+    "react-router-dom": "6.0.0-beta.0",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
